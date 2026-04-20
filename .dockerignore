@@ -1,8 +1,6 @@
+.git
 .env
-.env.local
 .env.*
 *.pem
 *.key
 *.log
-.DS_Store
-server
